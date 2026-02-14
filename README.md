@@ -18,7 +18,7 @@ A modern, feature-rich random quote generator built with vanilla JavaScript. Fea
 
 ## 🚀 Demo
 
-[Live Demo](https://yourusername.github.io/random-quote-generator/) 
+ https://du3a5.github.io/random-quote-generator/
 
 ## 🛠️ Technologies Used
 
