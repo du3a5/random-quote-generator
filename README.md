@@ -2,7 +2,7 @@
 
 A modern, feature-rich random quote generator built with vanilla JavaScript. Features include real-time quote fetching, dark/light mode, favorite quotes storage, and social sharing capabilities.
 
-<img width="975" height="614" alt="image" src="https://github.com/user-attachments/assets/17c4e404-4ce3-4e12-b46c-6c9e4b7ceb1e" />
+<img width="1055" height="862" alt="image" src="https://github.com/user-attachments/assets/713d8f1c-f28b-41cb-bb59-c9e1866181e3" />
 
 
 ## ✨ Features
