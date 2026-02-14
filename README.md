@@ -135,7 +135,7 @@ Doaa Saad
 
 - GitHub: https://github.com/du3a5
 - LinkedIn: https://www.linkedin.com/in/du3a5/
-- Email: duaasaad163@163@gmail.com
+- Email: duaasaad163@gmail.com
 
 ## 📄 License
 
